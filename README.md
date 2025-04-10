@@ -1,1 +1,3 @@
 # Enhancing-Clickbait-Spoilers-Classification-with-Hybrid-Deep-Learning-Models-and-Transformer-Layers
+
+This study investigates the effectiveness of hybrid deep learning architectures, namely LSTM and CNN-LSTM models, both with and without the integration of Transformer-based attention mechanisms for multiclass clickbait spoilers classification. The Webis Clickbait Spoiling Corpus 2022 dataset (Hagen et al., 2022) made available for SemEval 2023 clickbait challenge was used for the study. The dataset, a benchmark dataset for clickbait classification and spoiling is made up of 14 fields, giving information about the clickbait with 5000 social media posts and corresponding spoilers that reveal the actual content of the clickbait.
